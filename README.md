@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I am currently working at Ensign College. <br>🏫 I am doing a bachelors in computer science. <br>🥰 I really enjoy programming.<br>🏓 My hobbies: Reading, Gym, Photography, and Piano. <br>📱8014723664<br>
+⚒️ I am currently working at Ensign College. <br>🏫 I am doing a bachelors in computer science. <br>🥰 I really enjoy programming.<br>🏓 My hobbies: Reading, Gym, Photography, and Piano.
 
 
 ## 🌐 Socials:
