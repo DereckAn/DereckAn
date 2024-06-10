@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=14F71D&background=FF377200&center=true&vCenter=true&random=false&width=439&lines=Hola%2C+soy+Dereck+Angeles;Hi+there%2C+I'm+Dereck+Angeles)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 ⚒️ I am currently working at Ensign College. <br>🏫 I am doing a bachelors in computer science. <br>🥰 I really enjoy programming.<br>🏓 My hobbies: Reading, Gym, Photography, and Piano.
 
