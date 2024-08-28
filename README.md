@@ -16,7 +16,7 @@
 
 
 # 🎨 Front-end:
-[![Front-end](https://skillicons.dev/icons?i=js,html,css,react,flutter,swift )](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=js,ts,html,css,react,flutter,swift )](https://skillicons.dev)
 
 # 🧠 Back-end:
 [![Back-end](https://skillicons.dev/icons?i=django,fastapi,nextjs,nodejs,redis,mysql )](https://skillicons.dev)
