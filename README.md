@@ -2,9 +2,6 @@
 
 <br/>
 
-# 💫 About Me:
-⚒️ I am currently working at Ensign College. <br>🏫 I am doing a bachelors in computer science. <br>🥰 I really enjoy programming.<br>🏓 My hobbies: Reading, Gym, Photography, and Piano.
-
 <div align="center"> 
   <a href="https://linkedin.com/in/dereckan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
